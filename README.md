@@ -86,7 +86,6 @@ Documentation is available on [docs.datarhei.com/core](https://docs.datarhei.com
 -   [Installation](https://docs.datarhei.com/core/installation)
 -   [Configuration](https://docs.datarhei.com/core/configuration)
 -   [Coding](https://docs.datarhei.com/core/development/coding)
--   [TOTP two-factor authentication](docs/TOTP.md) (including recovery if the authenticator code is lost)
 
 ## License
 
